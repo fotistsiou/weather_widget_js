@@ -1,0 +1,16 @@
+html, body {
+      height: 100%;
+      margin: 0px;
+}
+body {
+      text-align: center;
+      background: linear-gradient(#34626c, #839b97);
+}
+.weather-widget {
+      border: 1pt solid black;
+      background: linear-gradient(#839b97, #cfd3ce);
+      height: 300px;
+      width: 400px;
+      margin: auto;
+      padding: 5px;
+}

@@ -1,0 +1,1 @@
+An application that submits Ajax requests to Openweather. It presents the weather conditions of any city it may be asked for.
